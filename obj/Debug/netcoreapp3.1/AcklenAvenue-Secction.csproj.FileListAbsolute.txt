@@ -1,0 +1,13 @@
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\bin\Debug\netcoreapp3.1\AcklenAvenue-Secction.exe
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\bin\Debug\netcoreapp3.1\AcklenAvenue-Secction.deps.json
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\bin\Debug\netcoreapp3.1\AcklenAvenue-Secction.runtimeconfig.json
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\bin\Debug\netcoreapp3.1\AcklenAvenue-Secction.runtimeconfig.dev.json
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\bin\Debug\netcoreapp3.1\AcklenAvenue-Secction.dll
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\bin\Debug\netcoreapp3.1\AcklenAvenue-Secction.pdb
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\obj\Debug\netcoreapp3.1\AcklenAvenue-Secction.csprojAssemblyReference.cache
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\obj\Debug\netcoreapp3.1\AcklenAvenue-Secction.AssemblyInfoInputs.cache
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\obj\Debug\netcoreapp3.1\AcklenAvenue-Secction.AssemblyInfo.cs
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\obj\Debug\netcoreapp3.1\AcklenAvenue-Secction.csproj.CoreCompileInputs.cache
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\obj\Debug\netcoreapp3.1\AcklenAvenue-Secction.dll
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\obj\Debug\netcoreapp3.1\AcklenAvenue-Secction.pdb
+C:\Users\grego\Desktop\Anker\AcklenAvenue-Secction\obj\Debug\netcoreapp3.1\AcklenAvenue-Secction.genruntimeconfig.cache
